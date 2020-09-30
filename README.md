@@ -1,6 +1,6 @@
 # beautiful_list
 
-A Beautiful List UI and Detail Page
+A Beautiful List UI and Detail Page created with flutter
 
 # Getting Started
 
